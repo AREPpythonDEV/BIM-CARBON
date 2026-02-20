@@ -1,0 +1,47 @@
+# -*- coding: utf-8 -*-
+
+alt_ws_mapping = {
+    "2" : "Structure",
+    "3" : "Façade",
+    "4" : "Second-œuvre"
+}
+
+ws_mapping = {
+    "1_AXE_NIV" : "Axes",
+    "1_EPU"     : "Epure du projet",
+    "2_FON"     : "Fondations",
+    "2_STR_SBE" : "Structure Béton",
+    "2_STR_SBO" : "Structure Bois",
+    "2_STR_SME" : "Structure Métal",
+    "3_FAC_MCN" : "Maçonneries extérieures",
+    "3_FAC_RVT" : "Bardages, revêtements de façade",
+    "3_FAC_MEX" : "Menuiseries extérieures",
+    "3_FAC_ORN" : "Ornement, modénatures",
+    "3_TOI"     :  "Toiture",
+    "4_SOE_CLO" : "Cloisons intérieures",
+    "4_SOE_MIN" : "Portes et fenêtres intérieures",
+    "4_SOE_MOB" : "Mobilier (hors PAIG)",
+    "4_SOE_PLF" : "Plafonds et planchers techniques",
+    "4_SOE_RVT" : "Revêtement intérieurs",
+    "4_SOE_SER" : "Serrurerie",
+    "5_AIG"     : "Aménagement Intérieur",
+    "5_OUT"     : "Outillage",
+    "5_APE"     : "Ascenseurs",
+    "5_BRU"     : "Brumisation",
+    "5_CFA"     : "Courants faibles",
+    "5_CFO"     : "Courants forts",
+    "5_CVC"     : "CVC",
+    "5_ECL"     : "Eclairage",
+    "5_PLB"     : "Plomberie",
+    "5_PNE"     : "Pneumatique",
+    "5_SON"     : "Sonorisation",
+    "5_FSP"     : "Fluides spéciaux",
+    "5_SPK"     : "Sprinkler",
+    "5_SSI"     : "Sécurité incendie",
+    "6_AME"     : "Aménagement extérieur",
+    "6_VGT"     : "Végétation",
+    "6_VRD"     : "VRD",
+    "6_FER"     : "Ferroviaire",
+    "7_ESP"     : "Espaces",
+    "7_PCE"     : "Pièces",
+}

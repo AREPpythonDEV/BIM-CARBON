@@ -1,0 +1,10 @@
+title: >-
+  Effacer
+  
+  poids carbone
+
+tooltip:
+  fr_fr: Efface les valeurs de poids carbone déjà injectées dans les objets du projet.
+  en_us: Clears the carbon weight values already injected into the project objects.
+
+author: Chris Greenhall,Souleymane DAFFE,Mohamed

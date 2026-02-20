@@ -1,0 +1,10 @@
+title: >-
+  Eléments
+  
+  sans materiaux
+
+tooltip:
+  fr_fr: Donne la liste des éléments sans matériaux. La liste est exportée dans un fichier Excel sauvegardé dans le dossier 'D:\AREP_Calcul Carbone'.
+  en_us: Gives list of elements without materials. The list is exported to an Excel file saved in the 'D:\AREP_Carbon Calculation' folder.
+
+authors: Chris Greenhall, Souleymane Daffe, Mohamed Asli

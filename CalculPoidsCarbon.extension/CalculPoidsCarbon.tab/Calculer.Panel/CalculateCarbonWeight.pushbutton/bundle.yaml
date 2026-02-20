@@ -1,0 +1,16 @@
+title: >-
+  Calculer
+  
+  le projet
+
+tooltip:
+  fr_fr:
+    Calculer le poids carbone des différents objets du projet.
+    
+    Vous pouvez choisir de lancer le calcul sur une sélection, sur l'ensemble du projet ou sur les éléments visible dans la vue active.
+  en_us:
+    Calculate the carbon weight of the various objects in the project.
+    
+    You can choose to run the calculation on a selection, on the entire project or on the visible elements in the active view.
+
+author: Chris Greenhall, Mohamed Asli, Souleymane Daffe

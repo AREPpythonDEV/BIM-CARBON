@@ -1,0 +1,8 @@
+layout:
+  - CheckMissingMaterials
+  - -----
+  - ClearValue
+  - -----
+  - GenerateReport
+background:
+  title: '#c9a3ba'

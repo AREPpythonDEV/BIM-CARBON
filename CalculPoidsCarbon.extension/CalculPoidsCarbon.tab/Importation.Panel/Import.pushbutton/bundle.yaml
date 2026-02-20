@@ -1,0 +1,20 @@
+title: >-
+  Importer
+  
+  les valeurs
+
+tooltip:
+  fr_fr: >-
+    Insérer les valeurs de poids carbone calculées dans les objets du projet.
+    
+    Si le résultat affiché n'est pas celui attendu, tenter d'éxécuter la commande en mainant les touches
+    Ctrl + Alt + Shift enfoncées.
+
+  en_us: >-
+    Insert the calculated carbon weight values into the project objects.
+    
+    If the displayed result is not as expected, try running the command while holding down the Ctrl + Alt + Shift keys.
+
+author: Mohamed Asli, Souleymane Daffe
+engine:
+  clean: true
