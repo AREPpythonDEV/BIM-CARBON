@@ -3,7 +3,6 @@
 
 import os
 import pickle
-print("hello world ! ")
 
 from Autodesk.Revit.DB import FilteredElementCollector, ProjectInfo
 
