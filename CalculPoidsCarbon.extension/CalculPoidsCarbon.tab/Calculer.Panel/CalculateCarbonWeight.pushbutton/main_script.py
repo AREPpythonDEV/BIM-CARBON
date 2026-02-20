@@ -3,6 +3,7 @@
 
 import os
 import pickle
+print("hello world ! ")
 
 from Autodesk.Revit.DB import FilteredElementCollector, ProjectInfo
 
@@ -21,7 +22,6 @@ doc_title = doc.Title
 csv_file_path = os.path.join(APPDATA_VERSION_PATH, f"{doc_title}.csv")
 csv_file_exists = os.path.exists(csv_file_path)
 
-print("hello world ! ")
 def send_request(request_parameters):
     """Send request to API and return results"""
     import time
